@@ -2642,11 +2642,6 @@ commondir@^1.0.1:
   resolved "https://registry.npmjs.org/commondir/-/commondir-1.0.1.tgz"
   integrity sha512-W9pAhw0ja1Edb5GVdIF1mjZw/ASI0AlShXM83UUGe2DVr5TdAPEA1OA8m/g8zWp9x6On7gqufY+FatDbC3MDQg==
 
-compare-versions@^3.4.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.6.0.tgz#1a5689913685e5a87637b8d3ffca75514ec41d62"
-  integrity sha512-W6Af2Iw1z4CB7q4uU4hv646dW9GQuBM+YpC0UvUCWSD8w90SJjp+ujJuXaEMtAXBtSqGfMPuFOVn4/+FlaqfBA==
-
 component-emitter@^1.2.1:
   version "1.3.0"
   resolved "https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz"
@@ -3305,12 +3300,11 @@ expo-location@^15.0.1:
   resolved "https://registry.yarnpkg.com/expo-location/-/expo-location-15.0.1.tgz#b132b8b50ce4d2dd9257b7b66cec44beeba253a4"
   integrity sha512-GOAP24m8fMahFcBT75H07f2+IQAOCOdNTzb8Ci/19NZ+Y/CY2lIvb55V8zu7Gn0+76FKPb7XC3ebQaq4ctn1QA==
 
-expo-modules-core@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/expo-modules-core/-/expo-modules-core-1.1.1.tgz#06502379274bdcb356fcbe225c3c6bc4926e462c"
-  integrity sha512-+AcaYmaWphIfkBcccu65dyOhWnpOJ3+SQpoI4lI/Plg1nNjOLuBjmrdVvpiJOvkN+CqbNGsJ5Yll8LLk+C107Q==
+expo-modules-core@^1.9.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/expo-modules-core/-/expo-modules-core-1.10.0.tgz#085c22ed2235f9c23ea5b67c37296f744c274bbd"
+  integrity sha512-jUmq7CwRKajkC6N7I57r2JqwJZ6mt42ICFt0QaQYPvitAdskYMnGamtsY56p9tImZAHbCY9EjWJ3ob6DZW9hTw==
   dependencies:
-    compare-versions "^3.4.0"
     invariant "^2.2.4"
 
 extend-shallow@^2.0.1:
